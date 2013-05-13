@@ -1,0 +1,25 @@
+{
+  "author": "Chris Abrams",
+  "name": "cc-mockup.chrisabrams.nodejitsu.com",
+  "subdomain": "cc-mockup.chrisabrams",
+  "description": "Just a mockup",
+  "version": "0.1.0-1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "connect": "2.7.3",
+    "express": "3.1.0",
+    "underscore": "1.4.2",
+    "hbs": "1.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js"
+}
