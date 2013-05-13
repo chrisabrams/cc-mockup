@@ -62,7 +62,6 @@ header {
   border-radius: 6px;
   box-sizing: border-box;
   color: #222;
-  display: none;
   padding: 20px;
   position: absolute;
   right: 0;
@@ -74,7 +73,6 @@ header {
 }
 
 #contribute-container.down {
-  display: block;
   -webkit-transform: translate3d(0, 100px, 0);
 }
 
